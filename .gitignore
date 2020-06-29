@@ -1,3 +1,5 @@
 
 back/
 /nbproject/private/
+sendgrid.env
+.env
